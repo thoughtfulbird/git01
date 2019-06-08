@@ -1,4 +1,4 @@
 	name = zhangsan
 
 
-num1=10
+num1=100
